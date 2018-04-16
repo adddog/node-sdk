@@ -90,7 +90,7 @@
     "mime-types": "~2.1.17",
     "object.omit": "~3.0.0",
     "object.pick": "~1.3.0",
-    "request": "~2.83.0",
+    "request": "github:adddog/request.git",
     "vcap_services": "~0.3.0",
     "websocket": "~1.0.25"
   },
